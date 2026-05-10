@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ReadersBookBank.DAL.Models.BookDetail>
+
+@{
+    ViewData["Title"] = "ViewAllBooks";
+}
+
+<h1>ViewAllBooks</h1>
+
+<p>
+    <a asp-controller="Book" asp-action="AddBook">Add New Book</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AvailabilityStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AvailabilityStatus)
+            </td>
+            <td>
+                <a asp-controller="Book" asp-action="EditBook" asp-route-bookId="@item.Id">Edit</a> |
+                <a asp-controller="Book" asp-action="RemoveBook" asp-route-bookId="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ReadersBookBank.DAL/ReadersBookBank.DAL.csproj" />
+  <Project Path="ReadersBookBankMVC.csproj" />
+</Solution>

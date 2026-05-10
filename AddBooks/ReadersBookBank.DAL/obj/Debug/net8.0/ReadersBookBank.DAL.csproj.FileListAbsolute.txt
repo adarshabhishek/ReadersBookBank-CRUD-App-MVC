@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\bin\Debug\net8.0\ReadersBookBank.DAL.deps.json
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\bin\Debug\net8.0\ReadersBookBank.DAL.runtimeconfig.json
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\bin\Debug\net8.0\ReadersBookBank.DAL.dll
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\bin\Debug\net8.0\ReadersBookBank.DAL.pdb
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.sourcelink.json
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.dll
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\refint\ReadersBookBank.DAL.dll
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.pdb
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ReadersBookBank.DAL.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\DotNetProgDemo\DotNetSampleDemo\User Registration\ReadersBookBank.DAL\obj\Debug\net8.0\ref\ReadersBookBank.DAL.dll
