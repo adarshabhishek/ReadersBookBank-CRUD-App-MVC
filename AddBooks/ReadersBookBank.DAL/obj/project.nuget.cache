@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "56u6WLplLr0=",
+  "dgSpecHash": "nN+0z6CyvVA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

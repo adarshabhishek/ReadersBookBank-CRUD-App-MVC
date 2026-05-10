@@ -1312,17 +1312,17 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/8.0.26": {
+      "Microsoft.EntityFrameworkCore.Design/8.0.23": {
         "type": "package",
         "dependencies": {
           "Humanizer.Core": "2.14.1",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.5.0",
-          "Microsoft.EntityFrameworkCore.Relational": "8.0.26",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.23",
           "Microsoft.Extensions.DependencyModel": "8.0.2",
           "Mono.TextTemplating": "2.2.1"
         },
         "compile": {
-          "lib/net8.0/_._": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll": {
             "related": ".xml"
           }
         },
@@ -1332,7 +1332,7 @@
           }
         },
         "build": {
-          "build/net8.0/Microsoft.EntityFrameworkCore.Design.props": {}
+          "build/net8.0/_._": {}
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/8.0.26": {
@@ -4771,10 +4771,10 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Design/8.0.26": {
-      "sha512": "XSH+wJmfNBO5eJJdqRGYhHxILGiq1Fl3xkXa3RT+jk/vLIh7Rs5aPwrajoq//TivEyrSUwGg1BfsI2IDVRtp7A==",
+    "Microsoft.EntityFrameworkCore.Design/8.0.23": {
+      "sha512": "Kx8uA4WOHjNjgri0++YdQ3twhS/tootOa9BL36vRDcT1G2n7TDUadoSi9gMz5AcHS3klyCMzVMel9JI/GhVEQg==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.design/8.0.26",
+      "path": "microsoft.entityframeworkcore.design/8.0.23",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4783,7 +4783,7 @@
         "build/net8.0/Microsoft.EntityFrameworkCore.Design.props",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.8.0.26.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.8.0.23.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
@@ -7321,7 +7321,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.EntityFrameworkCore.Design >= 8.0.26",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.23",
       "ReadersBookBank.DAL >= 1.0.0"
     ]
@@ -7333,11 +7332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBankMVC\\ReadersBookBankMVC.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBankMVC\\ReadersBookBankMVC.csproj",
       "projectName": "ReadersBookBankMVC",
-      "projectPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBankMVC\\ReadersBookBankMVC.csproj",
+      "projectPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBankMVC\\ReadersBookBankMVC.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBankMVC\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBankMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7359,8 +7358,8 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj": {
-              "projectPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj"
+            "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj": {
+              "projectPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj"
             }
           }
         }
@@ -7382,12 +7381,6 @@
         "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[8.0.26, )"
-          },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.23, )"

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ReadersBookBank.DAL
 {
-    public class BookDbContext : DbContext 
+    public class BookDbContext : DbContext
     {
         public DbSet<BookDetail> BookDetails { get; set; }
 
@@ -18,6 +18,4 @@ namespace ReadersBookBank.DAL
                 "Server=ADARSH\\SQLEXPRESS;Initial Catalog=ReadersBookBankDB;Trusted_Connection=True;TrustServerCertificate=True");
         }
     }
-
-        
 }

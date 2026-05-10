@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj": {}
+    "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj": {
+    "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj",
         "projectName": "ReadersBookBank.DAL",
-        "projectPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBank.DAL\\ReadersBookBank.DAL.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\User Registration\\ReadersBookBank.DAL\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Desktop\\DotNetProgDemo\\DotNetSampleDemo\\AddBooks\\ReadersBookBank.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

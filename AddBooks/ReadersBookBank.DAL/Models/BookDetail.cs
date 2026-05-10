@@ -11,7 +11,7 @@ namespace ReadersBookBank.DAL.Models
     public class BookDetail
     {
         [Key]
-        public int  Id { get; set; }
+        public int Id { get; set; }
         [Required]
         [StringLength(35)]
         public string BookName { get; set; }

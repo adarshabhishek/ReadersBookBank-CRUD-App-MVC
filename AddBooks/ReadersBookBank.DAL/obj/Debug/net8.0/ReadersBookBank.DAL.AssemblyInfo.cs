@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadersBookBank.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff6952712dd1218f10b8200ac830f1a57ac52788")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f820a9634976b0f18f480c88b0083c9bce970f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadersBookBank.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadersBookBank.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,7 @@ using ReadersBookBank.DAL;
 namespace ReadersBookBank.DAL.Migrations
 {
     [DbContext(typeof(BookDbContext))]
-    [Migration("20260510062530_Initial")]
+    [Migration("20260510093721_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
