@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="../ReadersBookBank.DAL/ReadersBookBank.DAL.csproj" Id="957c35b1-0e8b-454e-89d5-ded3671185f8" />
   <Project Path="ReadersBookBankMVC.csproj" />
 </Solution>
