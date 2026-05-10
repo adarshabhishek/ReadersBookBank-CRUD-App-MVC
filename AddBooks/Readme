@@ -1,0 +1,44 @@
+# 📚 Readers Book Bank - ASP.NET Core MVC Application
+
+## 📖 Project Overview
+
+Readers Book Bank is a multi-layer ASP.NET Core MVC web application developed for managing books and their availability status.
+
+The application allows admins to:
+
+- ➕ Add new books
+- 📋 View all books
+- ✏️ Edit existing books
+- ❌ Delete books
+- ✅ Track availability status
+
+This project follows a layered architecture using:
+
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Repository Pattern
+- Scaffolding
+- Bootstrap UI
+
+---
+
+# 🚀 Technologies Used
+
+- ASP.NET Core MVC (.NET 8)
+- Entity Framework Core
+- SQL Server
+- Bootstrap
+- Razor Views
+- C#
+- Visual Studio
+
+---
+
+# 🏗️ Project Architecture
+
+```text
+ReadersBookBankSolution
+│
+├── ReadersBookBankMVC      --> Presentation Layer
+├── ReadersBookBank.DAL     --> Data Access Layer
